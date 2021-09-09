@@ -1,0 +1,12 @@
+{
+  "name": "css-parser",
+  "version": "1.0.0",
+  "description": "Create JSON file with collection of icon names from scss file with classes like .icon-align_bottom:before { content: 'icon-code'; }",
+  "main": "index.mjs",
+  "author": "Anton Sukhodolets",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs"
+  }
+}
